@@ -1,0 +1,41 @@
+.SearchResults {
+  border-collapse : collapse;
+  border-spacing: 0;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.SearchResults-cell {
+  display: block;
+  height: 3em;
+  &:hover {
+  background-color: #c8dee4;
+}
+}
+
+.SearchResults-info {
+  color: var(--accent-color);
+  padding: 2em;
+  text-transform: uppercase;
+  text-align: center
+}
+
+.SearchResults-row {
+  border-bottom: 3px solid #e3e3e3;
+}
+
+@media (min-width: 40em) {
+  col:nth-child(1) {
+    width: 100%;
+  }
+
+
+  .SearchResults {
+    table-layout: fixed;
+  }
+
+  .SearchResults-cell {
+    display: table-cell;
+  }
+
+}
