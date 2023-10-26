@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-countries/static/css/main.1141dec0.chunk.css",
-    "main.js": "/react-countries/static/js/main.fde79ff1.chunk.js",
-    "main.js.map": "/react-countries/static/js/main.fde79ff1.chunk.js.map",
-    "runtime~main.js": "/react-countries/static/js/runtime~main.d3426653.js",
-    "runtime~main.js.map": "/react-countries/static/js/runtime~main.d3426653.js.map",
-    "static/js/2.f967c2f5.chunk.js": "/react-countries/static/js/2.f967c2f5.chunk.js",
-    "static/js/2.f967c2f5.chunk.js.map": "/react-countries/static/js/2.f967c2f5.chunk.js.map",
-    "index.html": "/react-countries/index.html",
-    "precache-manifest.c3bf3d81f60c826f43aba9da244050ef.js": "/react-countries/precache-manifest.c3bf3d81f60c826f43aba9da244050ef.js",
-    "service-worker.js": "/react-countries/service-worker.js",
-    "static/css/main.1141dec0.chunk.css.map": "/react-countries/static/css/main.1141dec0.chunk.css.map"
+    "main.css": "/simply-country-search/static/css/main.1141dec0.chunk.css",
+    "main.js": "/simply-country-search/static/js/main.1ef34592.chunk.js",
+    "main.js.map": "/simply-country-search/static/js/main.1ef34592.chunk.js.map",
+    "runtime~main.js": "/simply-country-search/static/js/runtime~main.5584e3db.js",
+    "runtime~main.js.map": "/simply-country-search/static/js/runtime~main.5584e3db.js.map",
+    "static/js/2.f967c2f5.chunk.js": "/simply-country-search/static/js/2.f967c2f5.chunk.js",
+    "static/js/2.f967c2f5.chunk.js.map": "/simply-country-search/static/js/2.f967c2f5.chunk.js.map",
+    "index.html": "/simply-country-search/index.html",
+    "precache-manifest.37e3bd01c3a2ed38e39c64d2d0fd8b9b.js": "/simply-country-search/precache-manifest.37e3bd01c3a2ed38e39c64d2d0fd8b9b.js",
+    "service-worker.js": "/simply-country-search/service-worker.js",
+    "static/css/main.1141dec0.chunk.css.map": "/simply-country-search/static/css/main.1141dec0.chunk.css.map"
   }
 }
